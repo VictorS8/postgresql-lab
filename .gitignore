@@ -1,0 +1,7 @@
+pagila/
+
+# Claude Code: permissões que você aprova na sua máquina
+.claude/settings.local.json
+
+# Saídas geradas pelo psql (\o, \copy, pg_dump)
+saidas/
